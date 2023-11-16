@@ -1,0 +1,64 @@
+[
+    {
+        "image_path": "photos\\saram_photos_3220029131344961213.jpg",
+        "tags": [
+            "text",
+            "person",
+            "accessory"
+        ],
+        "captions": [
+            {
+                "text": "a person holding a sign",
+                "confidence": 0.6453726291656494
+            }
+        ]
+    },
+    {
+        "image_path": "photos\\whycomar_3215829107748515108.jpg",
+        "tags": [
+            "person",
+            "child",
+            "little",
+            "boy",
+            "young",
+            "playground"
+        ],
+        "captions": [
+            {
+                "text": "a collage of a boy",
+                "confidence": 0.5704203844070435
+            }
+        ]
+    },
+    {
+        "image_path": "photos\\saram_photos_3220029131344961213.jpg",
+        "tags": [
+            "text",
+            "person",
+            "accessory"
+        ],
+        "captions": [
+            {
+                "text": "a person holding a sign",
+                "confidence": 0.6453726291656494
+            }
+        ]
+    },
+    {
+        "image_path": "photos\\whycomar_3215829107748515108.jpg",
+        "tags": [
+            "person",
+            "child",
+            "little",
+            "boy",
+            "young",
+            "playground"
+        ],
+        "captions": [
+            {
+                "text": "a collage of a boy",
+                "confidence": 0.5704203844070435
+            }
+        ]
+    }
+]
